@@ -18,8 +18,6 @@ gem 'therubyracer', platforms: :ruby
 
 gem 'activesupport'
 
-# Add New Relic APM Agent
-gem 'newrelic_rpm'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
